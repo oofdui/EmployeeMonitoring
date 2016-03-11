@@ -1,0 +1,30 @@
+E:\MyProject\GLS\2013\EmployeeMonitoring\EmployeeMonitoring\bin\Debug\EmployeeMonitoring.exe.config
+E:\MyProject\GLS\2013\EmployeeMonitoring\EmployeeMonitoring\bin\Debug\EmployeeMonitoring.exe
+E:\MyProject\GLS\2013\EmployeeMonitoring\EmployeeMonitoring\bin\Debug\EmployeeMonitoring.pdb
+E:\MyProject\GLS\2013\EmployeeMonitoring\EmployeeMonitoring\obj\x86\Debug\EmployeeMonitoring.exe
+E:\MyProject\GLS\2013\EmployeeMonitoring\EmployeeMonitoring\obj\x86\Debug\EmployeeMonitoring.pdb
+E:\MyProject\GLS\2013\EmployeeMonitoring\EmployeeMonitoring\obj\x86\Debug\EmployeeMonitoring.csprojResolveAssemblyReference.cache
+C:\Users\Oofdui\Dropbox\Project\Gls\2013\EmployeeMonitoring\EmployeeMonitoring\bin\Debug\EmployeeMonitoring.exe.config
+C:\Users\Oofdui\Dropbox\Project\Gls\2013\EmployeeMonitoring\EmployeeMonitoring\obj\x86\Debug\EmployeeMonitoring.exe
+C:\Users\Oofdui\Dropbox\Project\Gls\2013\EmployeeMonitoring\EmployeeMonitoring\obj\x86\Debug\EmployeeMonitoring.pdb
+C:\Users\Oofdui\Dropbox\Project\Gls\2013\EmployeeMonitoring\EmployeeMonitoring\bin\Debug\EmployeeMonitoring.exe
+C:\Users\Oofdui\Dropbox\Project\Gls\2013\EmployeeMonitoring\EmployeeMonitoring\bin\Debug\EmployeeMonitoring.pdb
+C:\Users\Oofdui\Dropbox\Project\Gls\2013\EmployeeMonitoring\EmployeeMonitoring\obj\x86\Debug\EmployeeMonitoring.csprojResolveAssemblyReference.cache
+C:\Users\Oofdui\Google Drive\MyProject\GLS\2013\EmployeeMonitoring\EmployeeMonitoring\bin\Debug\EmployeeMonitoring.exe.config
+C:\Users\Oofdui\Google Drive\MyProject\GLS\2013\EmployeeMonitoring\EmployeeMonitoring\obj\x86\Debug\EmployeeMonitoring.exe
+C:\Users\Oofdui\Google Drive\MyProject\GLS\2013\EmployeeMonitoring\EmployeeMonitoring\obj\x86\Debug\EmployeeMonitoring.pdb
+C:\Users\Oofdui\Google Drive\MyProject\GLS\2013\EmployeeMonitoring\EmployeeMonitoring\obj\x86\Debug\EmployeeMonitoring.csprojResolveAssemblyReference.cache
+C:\Users\Oofdui\Google Drive\MyProject\GLS\2013\EmployeeMonitoring\EmployeeMonitoring\bin\Debug\EmployeeMonitoring.exe
+C:\Users\Oofdui\Google Drive\MyProject\GLS\2013\EmployeeMonitoring\EmployeeMonitoring\bin\Debug\EmployeeMonitoring.pdb
+C:\Users\Oofdui\Dropbox\MyProject\GLS\2013\EmployeeMonitoring\EmployeeMonitoring\bin\Debug\EmployeeMonitoring.exe.config
+C:\Users\Oofdui\Dropbox\MyProject\GLS\2013\EmployeeMonitoring\EmployeeMonitoring\obj\x86\Debug\EmployeeMonitoring.exe
+C:\Users\Oofdui\Dropbox\MyProject\GLS\2013\EmployeeMonitoring\EmployeeMonitoring\obj\x86\Debug\EmployeeMonitoring.pdb
+C:\Users\Oofdui\Dropbox\MyProject\GLS\2013\EmployeeMonitoring\EmployeeMonitoring\bin\Debug\EmployeeMonitoring.exe
+C:\Users\Oofdui\Dropbox\MyProject\GLS\2013\EmployeeMonitoring\EmployeeMonitoring\bin\Debug\EmployeeMonitoring.pdb
+C:\Users\Oofdui\Dropbox\MyProject\GLS\2013\EmployeeMonitoring\EmployeeMonitoring\obj\x86\Debug\EmployeeMonitoring.csprojResolveAssemblyReference.cache
+C:\Users\Oofdui\Dropbox\MyProject\GLS\2013\EmployeeMonitoring\EmployeeMonitoring\EmployeeMonitoring\bin\Debug\EmployeeMonitoring.exe.config
+C:\Users\Oofdui\Dropbox\MyProject\GLS\2013\EmployeeMonitoring\EmployeeMonitoring\EmployeeMonitoring\obj\x86\Debug\EmployeeMonitoring.exe
+C:\Users\Oofdui\Dropbox\MyProject\GLS\2013\EmployeeMonitoring\EmployeeMonitoring\EmployeeMonitoring\obj\x86\Debug\EmployeeMonitoring.pdb
+C:\Users\Oofdui\Dropbox\MyProject\GLS\2013\EmployeeMonitoring\EmployeeMonitoring\EmployeeMonitoring\bin\Debug\EmployeeMonitoring.exe
+C:\Users\Oofdui\Dropbox\MyProject\GLS\2013\EmployeeMonitoring\EmployeeMonitoring\EmployeeMonitoring\bin\Debug\EmployeeMonitoring.pdb
+C:\Users\Oofdui\Dropbox\MyProject\GLS\2013\EmployeeMonitoring\EmployeeMonitoring\EmployeeMonitoring\obj\x86\Debug\EmployeeMonitoring.csprojResolveAssemblyReference.cache

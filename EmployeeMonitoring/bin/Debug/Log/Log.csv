@@ -1,0 +1,17 @@
+﻿MonitorDate,MethodName,Message
+19/08/2013 17:49:51,GetStaffIn,พบพนักงานที่เริ่มงานระหว่างวันที่ 2013-08-16 ถึง 2013-08-23 จำนวน 9 คน
+19/08/2013 17:49:51,ExportStaffIn,Complete
+19/08/2013 17:49:51,GetStaffOut,ไม่พบข้อมูลพนักงานที่ลาออกระหว่างวันที่ 2013-08-16 ถึง 2013-08-23
+19/08/2013 17:50:01,SendMail,Error: The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.7.1 Client was not authenticated
+19/08/2013 17:51:39,GetStaffIn,พบพนักงานที่เริ่มงานระหว่างวันที่ 2013-08-16 ถึง 2013-08-23 จำนวน 9 คน
+19/08/2013 17:51:39,ExportStaffIn,Complete
+19/08/2013 17:51:39,GetStaffOut,ไม่พบข้อมูลพนักงานที่ลาออกระหว่างวันที่ 2013-08-16 ถึง 2013-08-23
+19/08/2013 17:51:49,SendMail,Error: The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.7.1 Client was not authenticated
+22/08/2014 19:38:02,GetStaffIn,พบพนักงานที่เริ่มงานระหว่างวันที่ 2014-08-19 ถึง 2014-08-26 จำนวน 1 คน
+22/08/2014 19:38:02,ExportStaffIn,Complete
+22/08/2014 19:38:02,GetStaffOut,ไม่พบข้อมูลพนักงานที่ลาออกระหว่างวันที่ 2014-08-12 ถึง 2014-09-01
+22/08/2014 19:38:12,SendMail,Error: The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.7.1 Client was not authenticated
+11/03/2016 09:15:37,GetStaffIn,ไม่พบข้อมูลพนักงานที่เริ่มงานระหว่างวันที่ 2016-03-08 ถึง 2016-03-15
+11/03/2016 09:15:52,GetStaffOut,พบพนักงานที่ลาออกระหว่างวันที่ 2016-03-01 ถึง 2016-03-21 จำนวน 1 คน
+11/03/2016 09:16:09,ExportStaffOut,Complete
+11/03/2016 09:16:29,SendMail,Error: The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.7.1 Client was not authenticated
