@@ -72,8 +72,8 @@ namespace EmployeeMonitoring
 
             bool rtnValue = false;
             bool useAuthen = false;
-            string pathFullStaffIn = @pathTemp + tempStaffInName;
-            string pathFullStaffOut = @pathTemp + tempStaffOutName;
+            string pathFullStaffIn = clsGlobal.ExecutePathBuilder() + pathTemp + tempStaffInName;
+            string pathFullStaffOut = clsGlobal.ExecutePathBuilder() + pathTemp + tempStaffOutName;
 
             if (!File.Exists(pathFullStaffIn))
             {
@@ -167,8 +167,8 @@ namespace EmployeeMonitoring
             {
                 strMailBody.Append(mail_body);
             }
-            strMailBody.Append("<div>จากเซิฟเวอร์ : " + System.Configuration.ConfigurationManager.AppSettings["siteIP"] + "</div>");
-            strMailBody.Append(@"<div>Log Path : \\" + System.Configuration.ConfigurationManager.AppSettings["siteIP"] + @"\Application\EmployeeMonitoring\" + System.Configuration.ConfigurationManager.AppSettings["PathLog"].Replace("/",@"\") + "</div>");
+            strMailBody.Append("<div>จากเซิฟเวอร์ : " + clsGlobal.IPAddressBuilder() + "</div>");
+            strMailBody.Append(@"<div>Log Path : \\" + clsGlobal.IPAddressBuilder() + @"\Application\EmployeeMonitoring\" + pathLog.Replace("/",@"\") + "</div>");
 
             strMailBody.Append("<hr/>");
             strMailBody.Append("<b>ServerIP</b> : " + clsGlobal.IPAddressBuilder() + "<br/>");
@@ -188,13 +188,13 @@ namespace EmployeeMonitoring
 
             if (!string.IsNullOrEmpty(pathFullStaffIn))
             {
-                Attachment attachFile1 = new Attachment(Path.GetFullPath(pathFullStaffIn));
+                Attachment attachFile1 = new Attachment(pathFullStaffIn);
                 myMail.Attachments.Add(attachFile1);
                 //attachFile1.Dispose();
             }
             if (!string.IsNullOrEmpty(pathFullStaffOut))
             {
-                Attachment attachFile2 = new Attachment(Path.GetFullPath(pathFullStaffOut));
+                Attachment attachFile2 = new Attachment(pathFullStaffOut);
                 myMail.Attachments.Add(attachFile2);
                 //attachFile2.Dispose();
             }
